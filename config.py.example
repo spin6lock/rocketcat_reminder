@@ -1,0 +1,9 @@
+auth_token = "your_auth_token"
+url = 'https://your.domain.name/api/v1/chat.postMessage'
+user_id = "rocket.cat"
+randint_low = 1
+randint_high = 60
+channel = '@your_username_or_channel'
+text = 'your_text_here'
+emoji = ':smirk:'
+alias = 'your_alias'
